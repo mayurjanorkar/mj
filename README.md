@@ -1,2 +1,0 @@
-# mj
-hello there
